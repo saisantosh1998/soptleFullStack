@@ -1,0 +1,29 @@
+.grid {
+  height: 56vh !important;
+  width: 50vw !important;
+  margin: auto !important;
+}
+.button {
+  background-color: #00a278 !important;
+  color: aliceblue !important;
+}
+.checkoutButton {
+  background-color: #a20000 !important;
+  color: aliceblue !important;
+  width: 15vw !important;
+  margin: 5px !important;
+}
+.cancelButton {
+  background-color: #a20000 !important;
+  color: aliceblue !important;
+}
+
+.button:hover {
+  background-color: #00845c !important;
+}
+
+@media screen and (max-width: 650px) {
+  .grid {
+    width: 80vw !important;
+  }
+}

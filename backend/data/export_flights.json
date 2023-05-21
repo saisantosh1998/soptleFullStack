@@ -1,0 +1,4 @@
+{"_id":{"$oid":"60331f421f1d093ab5424475"},"flightId":"FLIGHT001","departureAirport":"Mumbai","arrivalAirport":"Chennai","departureTime":"2023-05-18 08:00:00","arrivalTime":"2023-05-18 11:00:00","capacity":12,"availableSeats":12}
+{"_id":{"$oid":"60331f421f1d093ab5424476"},"flightId":"FLIGHT002","departureAirport":"Hyderabad","arrivalAirport":"Delhi","departureTime":"2023-05-18 02:00:00","arrivalTime":"2023-05-18 16:00:00","capacity":8,"availableSeats":8}
+{"_id":{"$oid":"60331f421f1d093ab5424477"},"flightId":"FLIGHT003","departureAirport":"Delhi","arrivalAirport":"Bangalore","departureTime":"2023-05-18 12:00:00","arrivalTime":"2023-05-18 22:00:00","capacity":8,"availableSeats":8}
+{"_id":{"$oid":"60331f421f1d093ab5424478"},"flightId":"FLIGHT004","departureAirport":"Bangalore","arrivalAirport":"Vijayawada","departureTime":"2023-05-18 13:00:00","arrivalTime":"2023-05-18 24:00:00","capacity":8,"availableSeats":8}

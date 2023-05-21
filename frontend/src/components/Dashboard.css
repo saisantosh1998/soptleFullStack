@@ -1,0 +1,11 @@
+.dashboardContent {
+    background-image: url("../assets/hero_image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center !important;
+    align-items: center;
+    height: 71vh;
+  }
+ 

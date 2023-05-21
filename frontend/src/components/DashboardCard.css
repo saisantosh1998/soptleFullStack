@@ -1,0 +1,12 @@
+.card {
+  height: 40vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 650px) {
+    .card {
+        height: 25vh !important;
+    }
+  }
